@@ -1,0 +1,8 @@
+-DUNICODE
+-D_UNICODE
+-D_CRT_SECURE_NO_WARNINGS
+-Isrc
+-Ithird_party/cJSON
+-fms-extensions
+-fms-compatibility
+-Wno-deprecated-declarations
